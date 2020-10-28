@@ -16,4 +16,7 @@ Deep link
 <a href="https://www.gaitame.com/markets">https://www.gaitame.com/markets</a>
 <br />
 <a href="https://www.gaitame.com/opennaviapp">https://www.gaitame.com/opennaviapp</a>
+<br />
+<a href="https://fultter.s3-ap-northeast-1.amazonaws.com/redirect.html">https://fultter.s3-ap-northeast-1.amazonaws.com/redirect.html</a>
+
 
