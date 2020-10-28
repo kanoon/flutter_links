@@ -14,4 +14,6 @@ Deep link
 <a href="https://www.gaitame.com/openapp">https://www.gaitame.com/openapp</a>
 <br />
 <a href="https://www.gaitame.com/markets">https://www.gaitame.com/markets</a>
+<br />
+<a href="https://www.gaitame.com/opennaviapp">https://www.gaitame.com/opennaviapp</a>
 
