@@ -12,3 +12,6 @@ Deep link
        android:pathPrefix="/openapp" />`
 <br />
 <a href="https://www.gaitame.com/openapp">https://www.gaitame.com/openapp</a>
+<br />
+<a href="https://www.gaitame.com/markets">https://www.gaitame.com/markets</a>
+
