@@ -5,7 +5,8 @@
 <a href="https://play.google.com/apps/test/co.appkanoonmarisa.bmicalculator/5">Internal test</a>
 <br/>
 
-### Deep link
+## Deep link
+test
 <br />
 `<data android:scheme="https"
        android:host="host"
