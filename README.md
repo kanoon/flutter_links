@@ -6,7 +6,7 @@
 <br/>
 
 ## Deep link
-test
+With this config:
 <br />
 `<data android:scheme="https"
        android:host="host"
