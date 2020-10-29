@@ -11,7 +11,7 @@ Deep link
        android:host="host"
        android:pathPrefix="/path" />`
 <br />
-Internal Test <br/>
+Try to click the link below on your mobile (Navi App - Internal Test)<br/>
 <a href="https://fultter.s3-ap-northeast-1.amazonaws.com/redirect.html">https://fultter.s3-ap-northeast-1.amazonaws.com/redirect.html</a>
 
 
